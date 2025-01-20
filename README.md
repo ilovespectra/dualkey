@@ -29,11 +29,21 @@ This allows you to reduce the risk of compromise when storing or sending your se
    python3 dualkey.py
    ```
 
-3. Follow the on-screen prompts:
+1. Follow the on-screen prompts:
    - Enter a **4-digit encryption key** (e.g., `1234`).
    - Enter an **offset value** (must be a 4 to 6-digit number, e.g., `100013`).
    - Choose `(E)` for encryption or `(D)` for decryption.
    - Enter text (up to **300 characters** for encryption).
+
+Handling 24-Word Seed Phrases:
+
+If your seed phrase contains 24 words, split it into two 12-word halves and encrypt them separately.
+
+Example:
+```sql
+First half: "abandon ability able about above absent absorb abstract absurd abuse access accident"
+Second half: "accuse achieve acid acoustic acquire across act action actor actress actual adapt"
+```
 
 ## Example Usage
 
