@@ -2,7 +2,10 @@
 
 This is a simple Python script for locally encrypting and decrypting seed phrases using a 4-digit encryption key and an offset value.
 
+This allows you to reduce the risk of compromise when storing or sending your seed phrases digitally.
+
 **MEMORIZE YOUR ENCRYPTION KEYS. Always clear your terminal after use.**
+
 
 ## How It Works
 
