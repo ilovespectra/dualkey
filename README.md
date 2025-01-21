@@ -1,6 +1,6 @@
 # DUALKEY - Seedphrase Encryption and Decryption Tool
 
-This is a simple Python script for locally encrypting and decrypting seed phrases using a 4-digit encryption key and an offset value.
+This is a simple Python script for locally encrypting and decrypting seed phrases using a 4-digit encryption key and a 6-digit offset value.
 
 This allows you to reduce the risk of compromise when storing or sending your seed phrases digitally.
 
