@@ -26,7 +26,7 @@ if __name__ == "__main__":
     print(f"{GREEN}\
     DDDDD   U   U   AAAAA   L       K   K   EEEEE   Y   Y\n\
     D    D  U   U  A     A  L       K  K    E        Y Y\n\
-    D    D  U   U  AAAAAAA  L       KKK     EEEE      Y\n\
+    D    D  U   U  AAAAAAA  L       000     EEEE      Y\n\
     D    D  U   U  A     A  L       K  K    E         Y\n\
     DDDDD   UUUUU  A     A  LLLLL   K   K   EEEEE     Y{RESET}\n")
     print(f"{YELLOW}Seedphrase Encryption/Decryption Tool{RESET}\n")

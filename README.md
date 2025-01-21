@@ -51,7 +51,7 @@ Second half: "accuse achieve acid acoustic acquire across act action actor actre
 ```
     DDDDD   U   U   AAAAA   L       K   K   EEEEE   Y   Y
     D    D  U   U  A     A  L       K  K    E        Y Y
-    D    D  U   U  AAAAAAA  L       KKK     EEEE      Y
+    D    D  U   U  AAAAAAA  L       000     EEEE      Y
     D    D  U   U  A     A  L       K  K    E         Y
     DDDDD   UUUUU  A     A  LLLLL   K   K   EEEEE     Y
 
@@ -68,7 +68,7 @@ Encrypted Text: 4880 1178 9816 9816 13518 -83968 23390 13518 17220 9816 -56
 ```
     DDDDD   U   U   AAAAA   L       K   K   EEEEE   Y   Y
     D    D  U   U  A     A  L       K  K    E        Y Y
-    D    D  U   U  AAAAAAA  L       KKK     EEEE      Y
+    D    D  U   U  AAAAAAA  L       000     EEEE      Y
     D    D  U   U  A     A  L       K  K    E         Y
     DDDDD   UUUUU  A     A  LLLLL   K   K   EEEEE     Y
 
